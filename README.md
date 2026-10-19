@@ -209,4 +209,4 @@ PanGu is offered as a **complete free version** with all features and updates in
 Unlock your iOS device's full potential today! Download **PanGu** and experience the freedom of customization.
 
 ---
-**Last updated:** 2026-10-19 12:24:56 UTC
+**Last updated:** 2026-10-19 19:05:11 UTC
